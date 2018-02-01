@@ -106,5 +106,3 @@ You don't need to write a reduce function in this case; you should leave that se
 ### Bootstrap
 
 [Bootstrap](http://getbootstrap.com/) is an open source web framework designed for mobile clients. This project uses Bootstrap for its web design. The project relieves on content delivery networks (CDN) for the bootstrap files. You may customize the HTML and the CSS by overriding and adding local files.
-
-Testing testing testing testing
